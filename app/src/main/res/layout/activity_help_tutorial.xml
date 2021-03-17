@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".help_tutorial"
+    android:background="@color/gray">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/im"
+            android:layout_width="match_parent"
+            android:layout_height="557dp"
+            android:layout_marginTop="40dp"
+            app:srcCompat="@drawable/i2" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Next"
+            android:textAlignment="viewEnd"
+            android:textSize="25dp"
+            android:onClick="NextBtn"
+            android:textColor="@color/white"
+            android:background="@color/gray"
+            android:layout_marginTop="60dp"/>
+    </LinearLayout>
+</RelativeLayout>

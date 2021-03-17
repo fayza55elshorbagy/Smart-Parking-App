@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "913578532894",
+    "firebase_url": "https://parkirapp-34d11.firebaseio.com",
+    "project_id": "parkirapp-34d11",
+    "storage_bucket": "parkirapp-34d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913578532894:android:b338120b97be542c044e0f",
+        "android_client_info": {
+          "package_name": "com.example.pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913578532894-vulpee5qvshq5lmmrugee1v7q8d8cft3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pay",
+            "certificate_hash": "1244743fb8453cecb8b37a33be66b72daf9b5ddd"
+          }
+        },
+        {
+          "client_id": "913578532894-k1264h512l7c4ft06r4okqpc0e7sc6bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZB07JwKqANwTlJ5t_M4vGuUcD8FPke3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913578532894-k1264h512l7c4ft06r4okqpc0e7sc6bi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "913578532894-4lsgpar9ii94r6o68v9hu6403ap88m68.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "marwa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913578532894:android:97b9285726d22cf7044e0f",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913578532894-u8q8nqigog1eml1bnlqg215les9outou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "1244743fb8453cecb8b37a33be66b72daf9b5ddd"
+          }
+        },
+        {
+          "client_id": "913578532894-k1264h512l7c4ft06r4okqpc0e7sc6bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZB07JwKqANwTlJ5t_M4vGuUcD8FPke3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913578532894-k1264h512l7c4ft06r4okqpc0e7sc6bi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "913578532894-4lsgpar9ii94r6o68v9hu6403ap88m68.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "marwa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

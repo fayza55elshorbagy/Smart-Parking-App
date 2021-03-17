@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_maps">Project</string>
+    <string name="signup"><u>Sign Up</u></string>
+    <string name="parkir">PARKIR</string>
+    <string name="myCancelString">Open Time</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
